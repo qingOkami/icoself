@@ -1,0 +1,16 @@
+#Header_wrapper {
+    width:100%;
+    height: auto;
+    position: fixed;
+}
+#Header_wrapper .column,#Header_wrapper .columns{
+ float: initial;
+}
+.header-container { }
+#Top_bar{
+    width:100%;height: auto; position: relative;
+}
+#Top_bar {
+    height: 70px;
+    line-height: 70px;
+}

@@ -1,0 +1,58 @@
+.section.center{
+    background: #fff;
+}
+.Success-zq{
+    /*height: 895px;*/
+    position: relative;
+    width: 100%;
+}
+.Verification-zq{
+    /*height: 290px;*/
+    width: 780px;
+    margin: 200px auto 395px;
+    background: #fff;
+    box-shadow: 0 0 10px #666;
+    border-radius: 5px;
+    overflow:hidden
+}
+.suc-zq{
+    width: 180px;
+    display: block;
+    margin: 70px auto 25px;
+    color: #7a7a7a;
+    font-size: 20px;
+    font-weight:bold;
+}
+.Ico-zq{
+    display: block;
+    /*width: 295px;*/
+    color: #7a7a7a;
+    margin: 0 auto;
+    font-weight: bolder;
+}
+
+.Obtain-zq .Obtain-zqq{
+    height: 51px;
+    width: 308px;
+    line-height: 51px;
+    background: #13b5b1;
+    display: block;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    margin: 58px auto 55px;
+    text-decoration: none;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span{
+    color: #fff;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span:hover{
+    color: #13bfb1;
+
+}
+#Top_bar .menu > li a:after{
+    background: none;
+}
+#menu-item-2557 a span{
+    color: #13b5b1;
+}

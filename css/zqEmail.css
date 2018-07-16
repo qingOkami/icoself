@@ -1,0 +1,101 @@
+/*a {*/
+  /*color: #fff;*/
+/*}*/
+.WhiteBg-zq {
+    height: 895px;
+    position: absolute;
+    width: 100%;
+}
+
+.Verification-zq {
+
+    width: 780px;
+    margin: 100px auto 395px;
+    background: #fff;
+    box-shadow: 0 0 10px #666;
+    -webkit-box-shadow:0 0 10px #666;
+    padding-top: 50px;
+    position: relative;
+    border-radius: 5px;
+}
+
+.ADT-zq {
+    width: 565px;
+    margin: 0 auto;
+    color: #666;
+
+}
+
+.Add-zq {
+    width: 565px;
+    display: block;
+    text-align: center;
+    margin-bottom: 45px;
+    font-size: 28px;
+    color: #0b0b0b;
+}
+
+.img-zq {
+    position: absolute;
+    top: 120px;
+    left: 60px;
+
+}
+.ADT-zqq{
+    width: 570px;
+    text-align: left ;
+
+}
+.text-zq{
+font-size: 16px;
+}
+.text-zqq{
+
+    font-size: 16px;
+}
+.des-zq {
+    border: 1px dashed #d2d2d2;
+    margin-top: 63px;
+
+}
+
+.Again-zq {
+    margin: 0 43px;
+    text-align: right;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+}
+.Tx-zq{
+    color: #666;
+    display: inline-block;
+    margin-bottom:10px ;
+}
+.Tx-zqq{
+    font-weight: 600;
+    margin-left: 43px;
+    font-size: 14px;
+}
+.Tx-zqqq{
+
+    margin-left: 155px;
+    font-size: 14px;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span{
+    color: #fff;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span:hover{
+    color: #13bfb1;
+
+}
+#Top_bar .menu > li a:after{
+    background: none;
+}
+#menu-item-2557 a span{
+    color: #13b5b1;
+}
+#taAC_zq li a{
+    /*color: #fff;*/
+    text-decoration: none;
+}
+

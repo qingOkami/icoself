@@ -1,0 +1,475 @@
+.section.center {
+    background: #efefef;
+    height: 100%;
+}
+
+.Account-zq {
+    color: #000;
+    width: 1000px;
+    background: #efefef;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.Accounts-zq {
+    background: #fff;
+    margin: 20px auto 0;
+    overflow: hidden;
+}
+
+.Over-zq {
+    overflow: hidden;
+}
+
+.Over-zq > span:nth-child(1) {
+    /*width: 285px;*/
+    margin: 55px auto 0;
+    text-align: center;
+    display: block;
+    font-size: 30px;
+}
+
+.Over-zq > span:nth-child(2) {
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Over-zq h4 {
+    display: block;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+.Discount-zq {
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.Discount-zq > span {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Discount-zq > div > span:nth-child(1) {
+    display: inline;
+    text-align: center;
+    font-size: 18px;
+}
+
+.Discount-zq > div > span:nth-child(2) {
+    color: red;
+    display: inline;
+    font-size: 18px;
+}
+
+.Subscribe-zq {
+    margin: 10px auto;
+    background: #fff;
+    overflow: hidden;
+    position: relative;
+}
+
+.Subscribe-zq:after {
+    content: "";
+    display: block;
+    clear: both;
+    visibility: hidden
+}
+
+.Subscribe-zq > .blist-zq {
+    margin: 30px 0 0 50px;
+    width: 803px;
+    height: 32px;
+    list-style: none;
+    border: 1px solid #d9d9d9;
+}
+
+.blist-zq li:first-child {
+    border-left: none;
+}
+
+.blist-zq > li {
+    /*float: left;*/
+    /*height: 38px;*/
+    /*line-height: 38px;*/
+    /*width: 170px;*/
+    /*text-align: center;*/
+    /*border: 1px solid #d2d2d2;*/
+    /*font-size: 16px;*/
+    /*font-weight: 400;*/
+    list-style: none;
+    width: 200px;
+    height: 32px;
+    border-left: 1px solid #d9d9d9;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    float: left;
+    cursor: pointer;
+}
+
+.blsit-list-zq {
+    width: 275px;
+    height: 400px;
+}
+
+.blist_remark{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    /* font-weight: 400; */
+    display: block;
+    font-size: 14px;
+    color: #434343;
+    text-align: left;
+}
+
+.blsit-list-zq li {
+    list-style: none;
+    width: 1000px;
+    border: 0;
+    height: 200px;
+    border-top: none;
+}
+
+.Subscribe-zq .blist-zq li.active {
+    font-weight: bold;
+    color: #000;
+    border-top: 2px solid #00a0a0;
+    position: relative;
+    top: -1px;
+    height: 31px;
+    background: #00a0a0;
+}
+
+.blsit-list-zq li:first-child {
+    display: block;
+}
+
+.blsit-list-zq li {
+    display: none;
+}
+
+.QCord-zq {
+    position: relative;
+}
+
+.QCord-zq > span {
+    display: block;
+    position: absolute;
+    top: 93px;
+    left: 235px;
+    font-weight: 600;
+    color: #808080;
+    font-size: 15px;
+}
+
+.QR-zq {
+    width: 127px;
+    height: 127px;
+    padding:10px;
+    border: 1px solid #d2d2d2;
+    border-radius: 5px;
+    margin: 50px 0 30px 52px;
+}
+
+
+
+.blsit-list-zq .QCord-zq .Here-zq {
+    position: absolute;
+    top: 35px;
+    left: 235px;
+    width: 715px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 400;
+    color: #d2d2d2;
+}
+
+.Wallet-zq {
+
+    text-align: left;
+    margin-bottom: 45px;
+    overflow: hidden;
+    /*position: relative;*/
+}
+
+.Wallet-zq > span {
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #747474;
+    font-size: 14px;
+}
+
+.Wallets-zq {
+    overflow: hidden;
+    padding-top: 12px;
+
+}
+
+.Wallet-zq > span {
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+}
+.Wallet-zq .RetuETH{
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.Wallets-zq > input {
+    width: 755px;
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.Wallets-zq > a {
+    display: inline-block;
+    width: 145px;
+    height: 44px;
+    background: #13b5b1;
+    text-align: center;
+    line-height: 44px;
+    border-radius: 5px;
+    font-weight: inherit;
+    font-size: 16px;
+}
+
+.Recommend-zq {
+    margin: 10px auto;
+    background: #fff;
+    overflow: hidden;
+
+    text-align: left;
+}
+
+.RecFri > span {
+    color: #555;
+    font-size: 14px;
+}
+
+.RecFri > span:nth-child(1) {
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 52px;
+    margin-top: 25px;
+    margin-right: 5px;
+}
+
+.RecFri > span:nth-child(3) {
+    color: red;
+}
+
+.Prompt-zqq {
+    overflow: hidden;
+    padding-top: 12px;
+}
+
+.Prompt-zqq > input {
+    margin-left: 52px;
+    width: 755px;
+    height: 40px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.Prompt-zqq > .Prompt-zq {
+    text-decoration: none;
+    display: inline-block;
+    width: 145px;
+    height: 44px;
+    background: #13b5b1;
+    color: #fff;
+    text-align: center;
+    line-height: 44px;
+    border-radius: 5px;
+    font-weight: inherit;
+    font-size: 16px;
+}
+
+.Rule-zq {
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
+
+.Rule-zq span {
+    display: block;
+    color: #b1b1b1;
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.menu-item.menu-item-type-custom.menu-item-object-custom a span {
+    color: #fff;
+}
+
+.menu-item.menu-item-type-custom.menu-item-object-custom a span:hover {
+    color: #13bfb1;
+
+}
+
+#Top_bar .menu > li a:after {
+    background: none;
+}
+
+#menu-item-2557 a span {
+    color: #13b5b1;
+}
+
+#submit_zqq {
+    position: absolute;
+    border-radius: 5px;
+    width: 600px;
+    height: 210px;
+    text-align: center;
+    padding-top: 30px;
+    /*margin: 0 auto;*/
+    display: none;
+    left: 200px;
+    top: 0px;
+    color: #000;
+    /*bottom: 100px;*/
+    z-index: 9999999;
+    background: #fff;
+}
+#submit_zqq p{
+    margin: 20px auto 0;
+    /*width: 400px;*/
+    overflow: hidden;
+}
+#submit_zqq button{
+    margin-right:30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.QRli_zq .submiBB_zq{
+    position: absolute;
+    box-shadow: 0 0 10px #666;
+    -webkit-box-shadow: 0 0 10px #666;
+    border-radius: 5px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    padding-top: 30px;
+    /*margin: 0 auto;*/
+    display: none;
+    left: 200px;
+    bottom: 100px;
+    z-index: 999;
+    background: #fff;
+}
+.QRli_zq .submiBB_zq .submiBB2_zq{
+    margin: 20px auto 0;
+    overflow: hidden;
+}
+.QCord-zq .QRli_zq .submiBB_zq button{
+    margin-right:30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.blsit-list-zq .QCord-zq .QRli_zq{
+margin: 0 auto;
+    text-align: left;
+}
+.blsit-list-zq .QCord-zq .QRli_zq .diz0_zq{
+margin-left: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+.blsit-list-zq .QCord-zq .QRli_zq .diz01_zq{
+    margin-left: 50px;
+    margin-right: 50px;
+    /*font-weight: 400;*/
+    display: block;
+    font-size: 14px;
+    color: #434343;
+}
+.Wallet-zq .diz01_zq{
+    margin-left: 50px;
+    /*font-weight: 400;*/
+    display: block;
+    font-size: 14px;
+    color: #434343;
+
+}
+.blsit-list-zq .QCord-zq .QRli_zq #SideETH_zq{
+
+}
+#submits_zqq{
+    position: absolute;
+    box-shadow: 0 0 10px #666;
+    -webkit-box-shadow: 0 0 10px #666;
+    border-radius: 5px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    padding-top: 30px;
+    /*margin: 0 auto;*/
+    display: none;
+    left: 200px;
+    bottom: 100px;
+    z-index: 999;
+    background: #fff;
+    top: 140px;
+}
+#submitsE_zqq{
+    position: absolute;
+    box-shadow: 0 0 10px #666;
+    -webkit-box-shadow: 0 0 10px #666;
+    border-radius: 5px;
+    width: 430px;
+    height: 170px;
+    text-align: center;
+    padding-top: 60px;
+    /*margin: 0 auto;*/
+    display: none;
+    left: 260px;
+    bottom: 100px;
+    z-index: 999;
+    background: #fff;
+    top: 140px;
+
+}
+#Sides_zqq{
+    margin: 20px auto 0;
+    overflow: hidden;
+}
+#submits_zqq button{
+    margin-right:30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+#submitsE_zqq button{
+display: block;
+    margin: 60px auto 0;
+    border-radius: 5px;
+}

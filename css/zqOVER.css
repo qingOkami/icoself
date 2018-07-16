@@ -1,0 +1,55 @@
+.section.center{
+    background: #efefef;
+}
+.WhiteBg-zq {
+
+    position: absolute;
+    width: 100%;
+}
+.Verification-zq {
+    width: 1000px;
+    margin: 200px auto 395px;
+    background: #fff;
+    box-shadow: 0 0 10px #666;
+    -webkit-box-shadow:0 0 10px #666;
+    padding-top: 50px;
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+.Over_zq{
+    margin-top: 0;
+
+}
+.Over_zq h2{
+    color: #000;
+}
+.Over_zq>p>span{
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+}
+.RecB_zq{
+    margin-top: 40px;
+    color: #000;
+    margin-bottom: 20px;
+}
+.Curcy_zq{
+    color: #000;
+    margin-bottom: 60px;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span{
+    color: #fff;
+}
+.menu-item.menu-item-type-custom.menu-item-object-custom a span:hover{
+    color: #13bfb1;
+
+}
+#Top_bar .menu > li a:after{
+    background: none;
+}
+#menu-item-2557 a span{
+    color: #13b5b1;
+}
+
